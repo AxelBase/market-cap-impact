@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://market-cap-impact.vercel.app/sitemap.xml

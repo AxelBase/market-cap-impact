@@ -1,0 +1,1 @@
+import{h as o,i as u,S as p,j as t,C as _,O as a,o as l,s as d,p as g,k as m}from"./BJQP-dIQ.js";function E(n,r){let s=null,f=t;var i;if(t){s=g;for(var e=m(document.head);e!==null&&(e.nodeType!==_||e.data!==n);)e=a(e);if(e===null)l(!1);else{var y=a(e);e.remove(),d(y)}}t||(i=document.head.appendChild(o()));try{u(()=>r(i),p)}finally{f&&(l(!0),d(s))}}export{E as h};
